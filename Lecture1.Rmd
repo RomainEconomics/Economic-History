@@ -14,6 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Lecture 1: Development, state formation & inequality in the long run: from ternary to proprietarian societies
 
+Must read: capital and ideology chap 1-3\
+[World inequality report 2018](https://wir2018.wid.world/files/download/wir2018-summary-english.pdf)
+
 ### Introduction: development as a quest for justice
 
 * Social and economic progress is a long-term reality (education, health, income, population, etc.); but it is a very fragile process

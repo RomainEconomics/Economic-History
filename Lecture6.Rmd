@@ -2,7 +2,11 @@
 title: "Lecture 6"
 output: pdf_document
 ---
-  
+
+Capital and Ideology, chap 12-13\
+[From Communism to Capitalism: Private versus Public Property
+and Inequality in China and Russia](http://piketty.pse.ens.fr/files/NPYZ2018.pdf)
+
 # Post-communist societies (Russia, China, Eastern Europe) and the rise of global capitalism
   
 ### Inequality & growth in communist societies: Soviet Russia

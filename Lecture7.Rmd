@@ -1,7 +1,10 @@
 ---
-title: "Lecture 4"
+title: "Lecture 7"
 output: pdf_document
 ---
+
+Capital and Ideology chap 14-15\
+
 
 # Social inequality and party systems in historical perspective: Europe versus US
 

@@ -8,6 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
+Capital and Ideology, chap 8-9\
+[Wealth Inequality, Class and Caste in India,
+1961-2012](https://wid.world/document/n-k-bharti-wealth-inequality-class-and-caste-in-india-1961-2012/)
 
 # Colonial societies, state formation and comparative development (India, China, Japan)
 

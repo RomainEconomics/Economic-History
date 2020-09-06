@@ -1,8 +1,12 @@
 ---
-title: "Lecture 4"
+title: "Lecture 5"
 output: pdf_document
 ---
-  
+
+Capital and Ideology, chap 10-11\
+[CAPITAL IS BACK: WEALTH-INCOME RATIOS IN RICH
+COUNTRIES 1700–2010*](http://piketty.pse.ens.fr/fichiers/PikettyZucman2014QJE.pdf)
+
 # The Great Transformation of the 20 th century: from proprietarian to social-democratic societies
 
 ### K. Polanyi and the « Great Transformation » (1944)

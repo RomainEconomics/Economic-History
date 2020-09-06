@@ -2,7 +2,10 @@
 title: "Lecture 8"
 output: pdf_document
 ---
-  
+
+Capital and Ideology chap 16-17\
+[Political Cleavages and Inequality](http://piketty.pse.ens.fr/files/GethinMartinezPiketty2019Slides.pdf)
+
 # Political cleavages in post-colonial societies: social-nativism vs social-federalism
 
 ### The reversal of education cleavage in Western democracies

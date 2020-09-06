@@ -7,6 +7,9 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Capital and Ideology, chap 6-7\
+[Fiscal Capacity and Dualism
+in Colonial States: The French Empire 1830-1962](http://piketty.pse.ens.fr/files/Cogneauetal2018.pdf)
 
 # Slave societies, abolitions and colonialism (Caribbean, US, Brasil, Africa)
 \

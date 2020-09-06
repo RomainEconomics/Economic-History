@@ -7,6 +7,11 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Capital and ideology, chap 4-5\
+[“The Swedish Sonderweg in Question: Democratization and
+Inequality in Comparative Perspective, c. 1750–1920](http://piketty.pse.ens.fr/files/Bengtsson2019.pdf)
+
+
 
 # Property rights and development, 18c-19c: European variants (France, Britain, Sweden)
 \
