@@ -12,6 +12,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction to Economic History: Capital, Inequality, Growth
 
+The objective of the present course is to present an introduction to economic history, with special emphasis on the interaction between capital accumulation, inequality regimes and growth. Issues will include the following.\
+\
+**How did the world distribution of output, income and wealth - both between and within countries - evolve in the long run, and how can we account for these changes?** What was the interaction with the global ownership and power structure, colonization and the state formation process? How do inequality regimes, property regimes and political systems jointly evolve over time? What is the interaction between rising inequality, financial crisis, and the changing structure of political conflict?\
+\
+Question: Can we properly understand economic issues with representative-agent
+formal economic models?
+Answer: No. We need to study history, society, and institutions: legal system, property regime, welfare state, progressive taxation, etc.\
+\
+And in order to analyze institutions and state formation, we need to study property, inequality & beliefs systems about the fair economy & the just society.
+Ideas & ideology about economic and social justice matter for socioeconomic development. There can be no stability & no development without some minimal social consensus about the basic justification of social inequality.
+
+$\Rightarrow$ **economic history cannot be studied separately from social, political, cultural history & from moral and normative issues**
+
+
 ## Lecture 1: Development, state formation & inequality in the long run: from ternary to proprietarian societies
 
 Must read: capital and ideology chap 1-3\
@@ -19,15 +33,14 @@ Must read: capital and ideology chap 1-3\
 
 ### Introduction: development as a quest for justice
 
-* Social and economic progress is a long-term reality (education, health, income, population, etc.); but it is a very fragile process
-
-* Development requires state formation, a stable legal system and a relatively egalitarian educational system; more generally, **development requires acceptable levels of inequality and social justice and a minimal social consensus about the basic socio-economic structures and institutions**
-
-* In 18c-19c, development came with extreme inequality and violence: slavery, colonialism, unsustainable rise of international and domestic inequality 1880- 1914, self-destruction of European societies 1914-1945
-
-* Rising inequality 1990-2020 might also lead to major shocks: social conflict, antimigrant politics, conflicts about identity and the sustainability of globalization
-
-* **In order to address future challenges, we need a long-run comparative and historical perspective on inequality regimes and development**
+Social and economic progress is a long-term reality ( $\Uparrow$ in education, $\Uparrow$ life expectancy since 19's, $\Downarrow$ death mortality, health, income, population multiplied by 10 since 1800 with only 0.8% per year increase etc.); but it is a very fragile process.\
+\
+Development requires state formation, central state, a stable legal system and a relatively egalitarian educational system; more generally, **development requires acceptable levels of inequality and social justice and a minimal social consensus about the basic socio-economic structures and institutions**.\
+\
+In 18c-19c, development came with extreme inequality and violence: slavery, colonialism, unsustainable rise of international and domestic inequality 1880-1914 (Belle-epoque), self-destruction of European societies 1914-1945.\
+Rising inequality 1990-2020 might also lead to major shocks: social conflict, antimigrant politics, conflicts about identity and the sustainability of globalization\
+\
+**In order to address future challenges, we need a long-run comparative and historical perspective on inequality regimes and development**.\
 Inequality is ideological and political, not economic and technological: at every level of devt, there are multiple ways to organize the property regime, the educational system or the fiscal system
 
 ```{r echo=FALSE, , fig.align='center', out.width="90%"}
@@ -38,23 +51,34 @@ knitr::include_graphics("Plots/plot_1-1.png")
 knitr::include_graphics("Plots/plot_1-2.png")
 ```
 
+For national income calculation, we need to take into account K depreciation which can include natural capital, leads to 10% depreciation from gdp
+We also have to deduct the part of gdp that goes abroad
+Flow of national income must be equal 0 at world level.
+Here it's the red curve
+
+Today, on average the income per month is near 1000 $ but with strong disperancy (100-4000)
+In 18' everybody was poor compare to today.
+Income per capita multiplied by 10 as for population, so at almost the same growth rate (0.8%)
+Total GDP income growth was 1.6% per year
+Growth has been pretty slow but has been sufficient to allowed complete transformation of economies.
+
 
 ```{r echo=FALSE, , fig.align='center', out.width="90%"}
 knitr::include_graphics("Plots/plot_1-3.png")
 ```
-
 
 ```{r echo=FALSE, , fig.align='center', out.width="90%"}
 knitr::include_graphics("Plots/plot_1-4.png")
 ```
 
 
-```{r echo=FALSE, , fig.align='center', out.width="90%"}
+
+```{r echo=FALSE, , fig.align='center', out.width="100%"}
 knitr::include_graphics("Plots/plot_1-5.png")
 ```
 
 
-```{r echo=FALSE, , fig.align='center', out.width="90%"}
+```{r echo=FALSE, , fig.align='center', out.width="100%"}
 knitr::include_graphics("Plots/plot_1-6.png")
 ```
 
@@ -73,10 +97,11 @@ knitr::include_graphics("Plots/plot_1-8.png")
 knitr::include_graphics("Plots/plot_1-9.png")
 ```
 
+\newpage
 
-### Ternary societies: trifunctional inequality
+## Ternary societies: trifunctional inequality
 
-* **Oldest justification of inequality (pre-modern societies): « ternary societies »**
+**Oldest justification of inequality (pre-modern societies): « ternary societies »**\
 Core beliefs = in order to function, each society needs to divide its population into three major social groups with different status, functions and legal rights:
 
 * **Clergy/priests/intellectuals** provide spiritual and intellectual guidance
@@ -85,19 +110,18 @@ Core beliefs = in order to function, each society needs to divide its population
 
 * **Labourers/workers/Third Estate** (Tiers Etat) provide labour (food, clothing, etc.)
 
-* The first two groups are both property owners and political rulers (temporal or spiritual): the legitimacy of their property is inextricably tied to the political and spiritual services they are supposed to provide to the entire community
+The first two groups are both property owners and political rulers (temporal or spiritual): the legitimacy of their property is inextricably tied to the political and spiritual services they are supposed to provide to the entire community.\
+Multiple variants in Christian Europe, Hinduism, Islam, depending in particular on the various forms of religious ideology, family structures, forced labour, etc.
 
-* Multiple variants in Christian Europe, Hinduism, Islam, depending in particular on the various forms of religious ideology, family structures, forced labour, etc.
-
-```{r echo=FALSE, , fig.align='center', out.width="90%"}
+```{r echo=FALSE, , fig.align='center', out.width="80%"}
 knitr::include_graphics("Plots/plot_1-10.png")
 ```
 
+**In 15 c -18 c , the rise of centralized state power, education and enlightnment gradually destroys the basic justification of ternary societies**\
+\
+E.g. if security services are provided by the centralized state and the police force/military, what’s the use of the nobility? If intellectual guidance is provided by philosophers, scientists and universities, what’s the use of the clergy?\
 
-* **In 15 c -18 c , the rise of centralized state power, education and enlightnment gradually destroys the basic justification of ternary societies**
-* E.g. if security services are provided by the centralized state and the police force/military, what’s the use of the nobility? If intellectual guidance is provided by philosophers, scientists and universities, what’s the use of the clergy?
-
-$\rightarrow$ **rise of « proprietarian societies » in 18 c -19 c** based upon a sharp demarcation between political and property rights, and upon a quasi-sacralization of private property\
+$\rightarrow$ **rise of « proprietarian societies » in 18 c -19 c** based upon a sharp demarcation between *political* and *property rights*, and upon a quasi-sacralization of private property\
 \
 Core beliefs: in order to avoid social chaos and permanent expropriation/ redistribution, strong protection of private property by centralized state is necessary (and sufficient)
 
@@ -108,7 +132,7 @@ $\rightarrow$ post-communist, post-colonial societies; contested rise of mixed p
 #### Why study ternary societies?
 1. **Ternary ideologies and institutions have left a deep influence on modern societies.**
 
-* Ternary elites have sometime managed to redefine their role and
+Ternary elites have sometime managed to redefine their role and
 legitimacy long after the rise of centralized state power
 
 * E.g. until 1909-1910, the British Empire was ruled by the House of Lords (temporal and spiritual lords); since 1979, the Islamic Republic of Iran is ruled under the guidance of the clergy
@@ -121,10 +145,10 @@ This cannot be properly analyzed without taking into account the complex traject
 
 2. **Ternary ideologies are more subtle than they might seem.**
 
-* **Their purpose is to propose a system based upon the balance of power between two types of elites and two forms of legitimacy to govern:**\
-intellectual elites vs military elites
-
-* Each group is supposed to accept a limitation of their power: warriors must follow the wise advices and principles set by the clergy, while the clergy must accept not to take arms (not a trivial issue among Christian monks and bishops in Europe up until the 10c-12c).
+**Their purpose is to propose a system based upon the balance of power between two types of elites and two forms of legitimacy to govern:**\
+intellectual elites vs military elites\
+\
+Each group is supposed to accept a limitation of their power: warriors must follow the wise advices and principles set by the clergy, while the clergy must accept not to take arms (not a trivial issue among Christian monks and bishops in Europe up until the 10c-12c).
 
 * Warriors are supposed to bring stability (end of permanent chaos and war), while clerks provide spiritual guidance (including education, health, etc.)\
 (=basic justification for tythe (dîme) paid to the Church)
@@ -142,22 +166,23 @@ relations and « modern » property relations.
 
 * **E.g. India’s caste system: three upper castes (brahmins, kshatryas, vaishyas: free men) vs shudras (common laborers, serfs) vs dalits (untouchables)**
 
-* In the European context, it has been often claimed that serfom disappeared following the Black Death 1347-1350 (labor shortage (rightarrow) rising bargaining power of workers). True in Western Europe (to some extent), but the opposite evolution happenned in Eastern Europe & the Baltics: reinforcement of serfdom partly due to rising grain exports to the West (see Raster "Serfs and the Market" 2019)
+* In the European context, it has been often claimed that serfom disappeared following the Black Death 1347-1350, 25-35% of population died, (labor shortage (rightarrow) rising bargaining power of workers). True in Western Europe (to some extent), but the opposite evolution happenned in Eastern Europe & the Baltics: reinforcement of serfdom partly due to rising grain exports to the West 
 
 * **Depending on the politico-ideological context and the balance of power, modernity can come with increased labor coercion (serfdom, slavery)**
 
 
 #### The changing size of the clergy and nobility in European societies of orders: the case of France
 
-* In France, Britain and most European countries, no systematic census was organized until 19c. Nobody knows the exact size of the nobility and the clergy in the 15c-18c
+In France, Britain and most European countries, no systematic census was organized until 19c. Nobody knows the exact size of the nobility and the clergy in the 15c-18c.\
+Although there is considerable uncertainty about the exact levels, there is a relative consensus about the orders of magnitude and about the downward trend in the size of the nobility and the clergy during the 17c-18c
 
-* Although there is considerable uncertainty about the exact levels, there is a relative consensus about the orders of magnitude and about the downward trend in the size of the nobility and the clergy during the 17c-18c
 
-```{r echo=FALSE, , fig.align='center', out.width="90%"}
+
+```{r echo=FALSE, , fig.align='center', out.width="80%"}
 knitr::include_graphics("Plots/plot_1-11.png")
 ```
 
-```{r echo=FALSE, , fig.align='center', out.width="90%"}
+```{r echo=FALSE, , fig.align='center', out.width="80%"}
 knitr::include_graphics("Plots/plot_1-12.png")
 ```
 
@@ -167,38 +192,38 @@ knitr::include_graphics("Plots/plot_1-13.png")
 ```
 
 
-* **How can we explain the decline in the size of the nobility?**
+**How can we explain the decline in the size of the nobility?**
 
 * Large demographic rise of the population (deforestation, new
 territories, new economic sectors, etc.)
 
-* Beginning in the 1660s-1680s (Louis XIV), there is a clear attempt by the absolute monarchy to restrict the size of the priliveged groups (partly for fiscal reasons): « official » proofs of the nobility status, etc.
+* Beginning in the 1660s-1680s (Louis XIV), there is a clear attempt by the absolute monarchy to restrict the size of the priliveged groups (partly for fiscal reasons): « official » proofs of the nobility status (went to local to national issue), etc.
 
-* Malthusian strategies by the nobility also seem to have a played role: fewer children + primogeniture, due to defensive reasons (nobility response to the competition of new elites) and/or offensive reasons (with centralized state power, no need to have many sons to take arms in order to protect one’s property)
+* Malthusian strategies by the nobility also seem to have a played role: fewer children + primogeniture (only the elder son inherits), due to defensive reasons (nobility response to the competition of new elites) and/or offensive reasons (with centralized state power, no need to have many sons to take arms in order to protect one’s property)
 
+```{r echo=FALSE, , fig.align='center', out.width="80%"}
+knitr::include_graphics("Plots/plot_1-14.png")
+```
 
 #### Nobility and clergy as property-owning classes
 
 * The nobility and the clergy made up only 1%-2% of total population in 18th century France, but they owned over 50% of total land and wealth
 
-* Nobility: about 25%-30% of total property (up to 50% among top 0,1% property owners)
+  + Nobility: about 25%-30% of total property (up to 50% among top 0,1% property owners)
 
-* Clergy: about 25% of total property (including capitalization of ecclesiatical tythe (dîme): the Church as a quasi-state)
-
-```{r echo=FALSE, , fig.align='center', out.width="90%"}
-knitr::include_graphics("Plots/plot_1-14.png")
-```
+  + Clergy: about 25% of total property (including capitalization of ecclesiatical tythe (dîme): the Church as a quasi-state)
 
 ```{r echo=FALSE, , fig.align='center', out.width="90%"}
 knitr::include_graphics("Plots/plot_1-15.png")
 ```
-#### From ternary to proprietarian societies: the French Revolution & the invention of modern property
 
-* In ternary societies, property rights and political rights are inextricably and directly linked. The clergy & the nobility are property-owning classes and also exert political, military and judicial power.
+### From ternary to proprietarian societies: the French Revolution & the invention of modern property
 
-* In contrast, proprietarian societies attempt to draw sharp distinction between property rights (open to everybody, under state protection) and political-military-judicial rights (regalian power becomes state monopoly)
+In ternary societies, property rights and political rights are inextricably and directly linked. The clergy & the nobility are property-owning classes and also exert political, military and judicial power.
 
-* In order to better understand the « great demarcation » between ternary and proprietarian societies, let’s start with the following book: R. Blaufard, The Great Demarcation: **The French Revolution and the Invention of Modern Property** (Oxford UP 2014)
+In contrast, proprietarian societies attempt to draw sharp distinction between property rights (open to everybody, under state protection) and political-military-judicial rights (regalian power becomes state monopoly)\
+\
+In order to better understand the « great demarcation » between ternary and proprietarian societies, let’s start with the following book: R. Blaufard, The Great Demarcation: **The French Revolution and the Invention of Modern Property** (Oxford UP 2014)
 
 * Pre-1789 France (Ancien Régime): nobility (1%) + clergy (<1%) + Tiers-Etat (« third estate ») (98-99%)
 
@@ -219,14 +244,14 @@ knitr::include_graphics("Plots/plot_1-15.png")
 
 * **But judicial or quasi-political rights** (seigneuries publiques, charges et offices, dîmes ecclésiastiques, corvées, banalités, etc.) **should be abolished and transferred to the central** state. E.g. the fact that nobles hold local judicial power (or are tax-exempt) is a problem = the easy part on which (almost) everybody agrees.
 
-* **In practice, the complication comes from the fact that many payments had a dual nature: they expressed both « legitimate » property rights and « illegitimate » political rights**
+**In practice, the complication comes from the fact that many payments had a dual nature: they expressed both « legitimate » property rights and « illegitimate » political rights**
 
 * Lods, corvées, banalités, dîmes, etc: are these expressions of local oppressive power by nobility and clergy on commoners, and can this be part of legitimate property and social relations which the state needs to consolidate?
 
-* **Lods** = payment made by the peasant (or the holder of usage right or seigneurie utile on the land) to the landlord (or the holder of the full property right or seigneurie directe on the land) when the usage right is sold to someone else = similar to modern real-estate transaction tax (droits de mutation, stamp duties), except that they were made to private landlords.
+  + **Lods** = payment made by the peasant (or the holder of usage right or seigneurie utile on the land) to the landlord (or the holder of the full property right or seigneurie directe on the land) when the usage right is sold to someone else = similar to modern real-estate transaction tax (droits de mutation, stamp duties), except that they were made to private landlords.
 Very closely linked to judicial/political power exerted by local nobles (property registration).
 
-* **Lods** were often much larger than the land rents themselves: typically between 1/3 and 5/6 of land value (10-20 years of rent) for peasants who wanted to buy back lods from landlords
+  + **Lods** were often much larger than the land rents themselves: typically between 1/3 and 5/6 of land value (10-20 years of rent) for peasants who wanted to buy back lods from landlords
 
 
 * **1789-1790: « historical doctrine » (very conservative).** I.e. as long the historical origin of land rights is contractual, then all monetary land rights are legitimate, whether they are called rents or lods or cens or anything else (except pure judicial rights) and should be consolidated or compensated. Pb: how can you prove the contractual origin of land rights?
@@ -257,7 +282,7 @@ the contractual origin or quasi-tax-vs-public-good nature could be established
 
 * 1789-1815: church property was redistributed much more than aristocratic property
 
-* Significant redistribution of land toward small farmers, but even more so to large farmers (especially from church property, and to a lesser extent from aristocratic property)
+Significant redistribution of land toward small farmers, but even more so to large farmers (especially from church property, and to a lesser extent from aristocratic property)
 (**Abbé Sieyès: « the abolition of dimes will benefit rich property owners, not the poor »**)\
 \
 **Complete redefinition of the very notion of property rights:** strenghtening of individual monetary property rights; weakening of local power and control by the elites (nobles, priests)
@@ -270,7 +295,7 @@ the contractual origin or quasi-tax-vs-public-good nature could be established
 
 * Progressive wealth & inheritance taxes would have been useful to make the process more equitable... but everything happened very fast: conservative & Napoleonic reaction 1795-99
 
-* Blaufard, **The Great Demarcation**, 2014: very nice articulation between judicial archives illustrating concrete cases and more abstract legal/philosophical debates; between **short-run political history and long-run intellectual history**
+Blaufard, **The Great Demarcation**, 2014: very nice articulation between judicial archives illustrating concrete cases and more abstract legal/philosophical debates; between **short-run political history and long-run intellectual history**
 
 * **Long-standing controversies 16 c -18 c about state centralization and the role of nobility**
 
@@ -282,11 +307,11 @@ the contractual origin or quasi-tax-vs-public-good nature could be established
 
 * See also books by J. Israel on « radical Enlightment » vs « moderate enlightment »: some debates happened before the Revolution (i.e. same Chamber for nobility & commoners? Diderot yes, Voltaire no); many issues had to be addressed on the spot
 
-* Proposals were made to introduce sharply progressive taxes on income and inheritance were made during the Revolution. But they were never implemented (except on a temporary basis in 1793-1794: forced loans based on income brackets).
-
-* No attempt to organize a progressive redistribution of land or other assets (on the basis of plot size or values): there were many controversies about corvées vs loyers (rent) vs lods, but without taking the levels into account
-
-* Different trajectories could have happened; but in the end the legal and fiscal system adopted in 1789-1815 was very favourable to large property owners and led to rising concentration of property in France during the 19th century and up until World War 1
+Proposals were made to introduce sharply progressive taxes on income and inheritance were made during the Revolution. But they were never implemented (except on a temporary basis in 1793-1794: forced loans based on income brackets).\
+\
+No attempt to organize a progressive redistribution of land or other assets (on the basis of plot size or values): there were many controversies about corvées vs loyers (rent) vs lods, but without taking the levels into account\
+\
+Different trajectories could have happened; but in the end the legal and fiscal system adopted in 1789-1815 was very favourable to large property owners and led to rising concentration of property in France during the 19th century and up until World War 1
 
 ```{r echo=FALSE, , fig.align='center', out.width="90%"}
 knitr::include_graphics("Plots/plot_1-16.png")
